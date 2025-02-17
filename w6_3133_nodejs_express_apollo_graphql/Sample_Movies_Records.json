@@ -1,0 +1,24 @@
+{
+    "id": '1',
+    "name": 'Avatar',
+    "director_name": 'James Cameron',
+    "production_house": '20th Century Studios',
+    "release_date": '2009-12-18',
+    "rating": 8.0
+},
+{
+    "id": '2',
+    "name": 'The Lord of the Rings: The Fellowship of the Ring',
+    "director_name": 'Peter Jackson',
+    "production_house": 'New Line Cinema',
+    "release_date": '2001-12-19',
+    "rating": 8.8
+},
+{
+    "id": '3',
+    "name": 'Inception',
+    "director_name": 'Christopher Nolan',
+    "production_house": 'Warner Bros.',
+    "release_date": '2010-07-16',
+    "rating": 8.8
+}
